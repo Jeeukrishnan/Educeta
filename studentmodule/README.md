@@ -3,9 +3,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 You need to install node_modules first in your folder to run this.
-Install axios to fetch data .Instructions are provided inside the code files ,
+Install axios to fetch data .
+Instructions are provided inside the code files ,
 you have to uncomment some lines and add some basic JS lines to
 enable the data fetching.
+Use images from the frontendreact folder(the second folder)
+
 
 So basically when you login as a student you are redirected to this module.
 Functionalities and demo are described in studentmodule.pdf 
